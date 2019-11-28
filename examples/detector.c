@@ -66,8 +66,8 @@ void train_detector(char *datacfg, char *cfgfile, char *weightfile, int *gpus, i
             if (get_current_batch(net)+200 > net->max_batches) dim = 608;
             //int dim = (rand() % 4 + 16) * 32;
             printf("%d\n", dim);
-            args.w = dim;
-            args.h = dim;
+            args.w = 3072;//dim;
+            args.h = 2048; //dim;
 
             pthread_join(load_thread, 0);
             train = buffer;

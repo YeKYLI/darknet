@@ -1,0 +1,6 @@
+classes = 1
+train = /Users/baiyuxiu/Desktop/darknet/chip/train.txt
+valid = /Users/baiyuxiu/Desktop/darknet/chip/train.txt
+names = /Users/baiyuxiu/Desktop/darknet/chip/chip.names
+backup = backup
+

@@ -1,0 +1,18 @@
+{"path":"/Users/baiyuxiu/Desktop/amadeus/data/1.bmp",
+    "outputs":{"object":
+        [{"name":"chip","bndbox":{"xmin":129,"ymin":948,"xmax":339,"ymax":1149}},
+        {"name":"chip","bndbox":{"xmin":342,"ymin":947,"xmax":552,"ymax":1148}},
+        {"name":"chip","bndbox":{"xmin":552,"ymin":944,"xmax":756,"ymax":1148}},
+        {"name":"chip","bndbox":{"xmin":768,"ymin":941,"xmax":969,"ymax":1151}},
+        {"name":"chip","bndbox":{"xmin":975,"ymin":941,"xmax":1177,"ymax":1145}},
+        {"name":"chip","bndbox":{"xmin":1186,"ymin":941,"xmax":1387,"ymax":1148}},
+        {"name":"chip","bndbox":{"xmin":1390,"ymin":936,"xmax":1597,"ymax":1146}},
+        {"name":"chip","bndbox":{"xmin":1597,"ymin":932,"xmax":1801,"ymax":1139}},
+        {"name":"chip","bndbox":{"xmin":1807,"ymin":926,"xmax":2011,"ymax":1136}},
+        {"name":"chip","bndbox":{"xmin":2018,"ymin":923,"xmax":2222,"ymax":1139}},
+        {"name":"chip","bndbox":{"xmin":2219,"ymin":920,"xmax":2432,"ymax":1139}},
+        {"name":"chip","bndbox":{"xmin":2435,"ymin":923,"xmax":2639,"ymax":1130}},
+        {"name":"chip","bndbox":{"xmin":2642,"ymin":923,"xmax":2846,"ymax":1133}},
+        {"name":"chip","bndbox":{"xmin":2855,"ymin":920,"xmax":3057,"ymax":1130}}]},
+        "time_labeled":1574768843266,"labeled":true,
+        "size":{"width":3072,"height":2048,"depth":3}}
